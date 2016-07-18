@@ -11,3 +11,27 @@ http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
 
 I refered "Raspberry Pi Face Recognition Treasure Box" project to learn basics of face recognition project.
 http://makezine.com/projects/pi-face-treasure-box/
+
+The "face recognition attendance system" have-
+-Raspberry Pi b+
+-RPI camera module
+-Computer monitor(For display puspose)
+-Python GUI application is developed to provide user interface
+
+The face recognition attendance system works as follows- 
+when the complete set up is made and My_attendancesystem.py is Running, User has to enter the details by clocking "New member" button in Python GUI applicationwhich takes the details like name ,gender ,email id, mobile number and save it to the "DetailsDatabase.csv".
+
+For recognition ,system needs to be trained with the user's faces. To train the system user should click the button in "Train Recognizer". This will capture the images of the user and creates a folder in "training" folder like 
+
+/training
+--Negative
+--Positive/
+-----User/
+--------001.pgm
+--------002.pgm
+
+when the user want to marks his/her attendance , should clock the button "Mark attendance"
+It will capture the image of the user and make some operations on the face image and compare it in the face database and if found attendance will be marked.
+
+For user to know about the attendance, "check attendannce" and "mail my attendance" buttons are used.
+
