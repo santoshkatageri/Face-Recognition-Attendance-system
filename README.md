@@ -34,3 +34,10 @@ It will capture the image of the user and make some operations on the face image
 
 For user to know about the attendance, "check attendannce" and "mail my attendance" buttons are used.
 
+
+
+Note:
+The “Face recognition attendance system” based on image processing in SIT Tumkuru, as a part of the prescribed curriculum.
+-he project developed using RPI image sensors, Raspberry Pi, OpenCV libraries, and Python programming for the successful completion of the project.
+-The project aimed at developing a hardware prototype for the face recognition attendance system.
+-Got 2nd “BEST PROJECT” Prize for major Project in Branch Project exhibition.
