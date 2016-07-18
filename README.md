@@ -24,9 +24,8 @@ when the complete set up is made and My_attendancesystem.py is Running, User has
 For recognition ,system needs to be trained with the user's faces. To train the system user should click the button in "Train Recognizer". This will capture the images of the user and creates a folder in "training" folder like 
 
 /training
---Negative
---Positive/
------User/
+Positive/
+User/
 --------001.pgm
 --------002.pgm
 
