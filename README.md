@@ -39,7 +39,7 @@ For user to know about the attendance, "check attendannce" and "mail my attendan
 Note:
 The “Face recognition attendance system” based on image processing in SIT Tumkuru, as a part of the prescribed curriculum.
 
--he project developed using RPI image sensors, Raspberry Pi, OpenCV libraries, and Python programming for the successful completion of the project.
+-The project developed using RPI image sensors, Raspberry Pi, OpenCV libraries, and Python programming for the successful completion of the project.
 
 -The project aimed at developing a hardware prototype for the face recognition attendance system.
 
